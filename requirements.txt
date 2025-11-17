@@ -1,0 +1,4 @@
+vaderSentiment>=3.3.2
+snscrape>=0.7.0.20230622
+tweepy>=4.14.0
+python-dotenv>=1.0.0
